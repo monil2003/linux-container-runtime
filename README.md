@@ -1,4 +1,4 @@
-# Conductor
+# Linux Container Runtime
 
 A minimal educational Linux container runtime built directly on top of
 Linux kernel primitives such as namespaces, `chroot`, OverlayFS, virtual
