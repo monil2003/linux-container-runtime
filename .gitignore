@@ -1,0 +1,42 @@
+# Runtime / generated container state
+.cache/
+.images/
+.containers/
+
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.swp
+*.swo
+*~
+
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.out
+
+
+# Executables generated locally
+conductor
+container_prog
+namespace_prog
+
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Shell history / local configuration
+.env
+.env.*
